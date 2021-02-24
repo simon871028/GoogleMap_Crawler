@@ -1,0 +1,2 @@
+# GoogleMap_Crawler
+利用動態爬蟲爬取GoogleMap店家資訊與評論
